@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+.Form input{
+  margin-left: 5px;
+}
+.Form p{
+  color:red
+}
